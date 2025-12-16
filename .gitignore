@@ -1,0 +1,14 @@
+# Arduino CLI binary
+bin/
+
+# LittleFS filesystem image
+littlefs.bin
+
+# Build artifacts
+*.elf
+*.bin
+*.hex
+build/
+
+# Arduino IDE
+.arduino/
